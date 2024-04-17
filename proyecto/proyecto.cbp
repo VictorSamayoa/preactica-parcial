@@ -35,8 +35,10 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/clase_submenu1.h" />
+		<Unit filename="include/clase_submenu2.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/clase_submenu1.cpp" />
+		<Unit filename="src/clase_submenu2.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
